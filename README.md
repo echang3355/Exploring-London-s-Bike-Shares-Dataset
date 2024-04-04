@@ -4,3 +4,6 @@ Come with me as I walk you through one of my portfolio projects where I use nume
 
 Visit my website pasted down below to view and follow my full project step-by-step
 - https://medium.com/@echang35/visualizing-and-exploring-londons-bike-shares-dataset-5de2d409eeed
+
+Visit my Tableau Public for the full dashboard
+- https://public.tableau.com/app/profile/edward.chang1171/viz/LondonBikeShare_16993915948190/Dashboard1
